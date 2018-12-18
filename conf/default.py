@@ -30,10 +30,10 @@ from django.conf.global_settings import *  # noqa
 # 应用基本信息配置 (请按照说明修改)
 # ==============================================================================
 # 在蓝鲸智云开发者中心 -> 点击应用ID -> 基本信息 中获取 APP_ID 和 APP_TOKEN 的值
-APP_ID = 'app_code'
-APP_TOKEN = ''
+APP_ID = 'hiauto'
+APP_TOKEN = '7e4fb696-a97e-498a-b65f-bb187526ccca'
 # 蓝鲸智云开发者中心的域名，形如：http://paas.bking.com
-BK_PAAS_HOST = ''
+BK_PAAS_HOST = 'http://paas.hitales.ai:80'
 
 # 请求官方 API 默认版本号，可选值为："v2" 或 ""；其中，"v2"表示规范化API，""表示未规范化API
 DEFAULT_BK_API_VER = 'v2'
